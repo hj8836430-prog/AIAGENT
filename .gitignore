@@ -1,0 +1,31 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+*.class
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.orig
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test Output
+test-output/
+extent-report/
+*.log
+
+# Misc
+.gradle/
+build/
+output/
